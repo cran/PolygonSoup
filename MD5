@@ -1,6 +1,6 @@
-64f416829adc19759658bb8891c3584c *DESCRIPTION
+5221c69e46f0252e9d6752aa6cec6726 *DESCRIPTION
 a679c3c3e02e1f905c2af50ae605faf4 *NAMESPACE
-a4d4db1904a9d11197beb401fb939292 *NEWS.md
+4f46a56646b74d820fe305cf8d18df2d *NEWS.md
 f45eee964024ce10c539d54c11d082f4 *R/RcppExports.R
 688fabfd9443b9c0819fed7ab1c0962c *R/ReadWrite.R
 70bad71559361c58797ff6ab666a2083 *R/aaa.R
@@ -21,8 +21,8 @@ a0f8da838038568d481510ddbbd127b8 *man/Mesh.Rd
 7f382facdd84c871c3a55c9911367800 *man/toRGL.Rd
 123a33cdd4005f61ce864689fa4991ba *man/truncatedIcosahedron.Rd
 926b027ec28e1eab13e3c0ab21067d55 *man/writeMeshFile.Rd
-ae06c59157969b0e37eec628cb28b3db *src/Makevars.in
-906e28e0897122e9ebaf2a3fa1432e51 *src/Makevars.win
+91bec53c6a0de6ce19162e5758be39de *src/Makevars.in
+1804f61528ec7cf311a90a8a74f22e5d *src/Makevars.win
 f5396e4a3e127295e3d1f99060da6de1 *src/PolygonSoup.h
 08b3a8ee39be5451b810ae858616a51e *src/RcppExports.cpp
 1c31f4f41f80ed8bafbb9c971356023c *src/ReadWrite.cpp
